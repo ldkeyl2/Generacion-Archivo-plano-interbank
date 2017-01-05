@@ -1,0 +1,6 @@
+E:\Proyecto PEX\Transaccion\ArchivoPlanoAfiliacionBCP\ArchivoPlanoAfiliacionBCP\bin\Debug\ArchivoPlanoAfiliacionBCP.exe.config
+E:\Proyecto PEX\Transaccion\ArchivoPlanoAfiliacionBCP\ArchivoPlanoAfiliacionBCP\bin\Debug\ArchivoPlanoAfiliacionBCP.exe
+E:\Proyecto PEX\Transaccion\ArchivoPlanoAfiliacionBCP\ArchivoPlanoAfiliacionBCP\bin\Debug\ArchivoPlanoAfiliacionBCP.pdb
+E:\Proyecto PEX\Transaccion\ArchivoPlanoAfiliacionBCP\ArchivoPlanoAfiliacionBCP\obj\Debug\ArchivoPlanoAfiliacionBCP.csprojResolveAssemblyReference.cache
+E:\Proyecto PEX\Transaccion\ArchivoPlanoAfiliacionBCP\ArchivoPlanoAfiliacionBCP\obj\Debug\ArchivoPlanoAfiliacionBCP.exe
+E:\Proyecto PEX\Transaccion\ArchivoPlanoAfiliacionBCP\ArchivoPlanoAfiliacionBCP\obj\Debug\ArchivoPlanoAfiliacionBCP.pdb
