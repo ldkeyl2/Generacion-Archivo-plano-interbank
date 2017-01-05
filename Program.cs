@@ -31,6 +31,7 @@ namespace ArchivoPlanoAfiliacionBCP
             SqlCommand SQLCmd = new SqlCommand();
             try
             {
+                Console.WriteLine("Empezó el proceso");
                 SQLCmd.Connection = SQLConn;
                 SQLCmd.CommandType = CommandType.StoredProcedure;
                 SQLCmd.CommandText = "GetArchivoPlanoAfiliacionDebitoAutomatico";
